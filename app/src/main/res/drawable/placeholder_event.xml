@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Calendar outline -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#757575"
+    android:strokeWidth="2"
+    android:pathData="M19,4H17V2H15V4H9V2H7V4H5C3.9,4,3,4.9,3,6V20C3,21.1,3.9,22,5,22H19C20.1,22,21,21.1,21,20V6C21,4.9,20.1,4,19,4ZM19,20H5V9H19V20Z"/>
+
+    <!-- Checkmark inside calendar -->
+    <path
+        android:fillColor="#757575"
+        android:pathData="M10,15.6L7.4,13C7,12.6,7,11.9,7.4,11.4C7.8,11,8.5,11,8.9,11.4L10,12.5L15.1,7.4C15.5,7,16.2,7,16.6,7.4C17,7.8,17,8.5,16.6,8.9L10,15.6Z"/>
+
+</vector>

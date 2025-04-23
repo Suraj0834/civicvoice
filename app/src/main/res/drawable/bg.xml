@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Base gradient background -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#E6F0FA"
+                android:endColor="#A3D9B1"
+                android:angle="90" />
+        </shape>
+    </item>
+
+    <!-- First geometric shape (triangle-like) -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#80C8E4C9" />
+            <corners android:radius="0dp" />
+            <padding
+                android:left="0dp"
+                android:top="0dp"
+                android:right="200dp"
+                android:bottom="200dp" />
+        </shape>
+    </item>
+
+    <!-- Second geometric shape (triangle-like, rotated effect) -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#80A3D9B1" />
+            <corners android:radius="0dp" />
+            <padding
+                android:left="200dp"
+                android:top="0dp"
+                android:right="0dp"
+                android:bottom="200dp" />
+        </shape>
+    </item>
+
+    <!-- Third geometric shape (diagonal overlay) -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#4D8CC59C" />
+            <corners android:radius="0dp" />
+            <padding
+                android:left="0dp"
+                android:top="200dp"
+                android:right="200dp"
+                android:bottom="0dp" />
+        </shape>
+    </item>
+</layer-list>

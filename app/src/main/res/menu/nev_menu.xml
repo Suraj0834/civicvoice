@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        app:iconTint="@color/white"
+        android:title="@string/home" />
+
+    <item
+        android:id="@+id/nav_events"
+        android:icon="@drawable/event"
+        app:iconTint="@color/white"
+        android:title="Event" />
+
+    <item
+        android:id="@+id/nav_complaints"
+        android:icon="@drawable/report"
+        app:iconTint="@color/white"
+        android:title="@string/complaints" />
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/profile"
+        app:iconTint="@color/white"
+        android:title="@string/profile" />
+
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/ic_settings"
+        app:iconTint="@color/white"
+        android:title="@string/settings" />
+
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/logout"
+        app:iconTint="@color/colorSecondaryDark"
+        android:title="@string/logout"
+        android:titleTextColor="@color/colorSecondaryDark" />
+</menu>

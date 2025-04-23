@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="cardBackground" format="color" />
+    <attr name="buttonBackground" format="color" />
+    <attr name="buttonTextColor" format="color" />
+    <attr name="errorColor" format="color" />
+    <attr name="gradientStart" format="color" />
+    <attr name="gradientEnd" format="color" />
+
+    <attr name="statIconTint" format="color|reference"/>
+    <attr name="statTitleColor" format="color|reference"/>
+    <attr name="statValueColor" format="color|reference"/>
+
+    <declare-styleable name="StatCard">
+        <attr name="statIcon" format="reference" />
+        <attr name="statTitle" format="string" />
+        <attr name="statValue" format="integer" />
+    </declare-styleable>
+
+
+</resources>

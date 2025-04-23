@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ஜன்சங்கல்ப்</string>
+    <string name="register">பதிவு செய்</string>
+    <string name="sign_in">உள்நுழை</string>
+    <string name="anonymous_login">பெயரிலி உள்நுழைவு</string>
+    <string name="normal_user">பொது பயனர்</string>
+    <string name="official">அதிகாரி</string>
+    <string name="username">பயனர் பெயர்</string>
+    <string name="email">மின்னஞ்சல்</string>
+    <string name="password">கடவுச்சொல்</string>
+    <string name="phone_number">தொலைபேசி எண்</string>
+    <string name="department">துறை</string>
+    <string name="create_post">பதிவு உருவாக்கு</string>
+    <string name="upload_image">படம் பதிவேற்று</string>
+    <string name="location">இடம்</string>
+    <string name="description">விளக்கம்</string>
+    <string name="hashtags">ஹேஷ்டேக்குகள் (கமாவால் பிரிக்கப்பட்டவை)</string>
+    <string name="submit_post">பதிவை சமர்ப்பி</string>
+    <string name="upvote">மேல்வாக்கு</string>
+    <string name="downvote">கீழ்வாக்கு</string>
+    <string name="add_comment">கருத்து சேர்</string>
+    <string name="post_comment">கருத்து பதிவு செய்</string>
+    <string name="mark_in_progress">புரோகிரஸில் குறி</string>
+    <string name="mark_completed">முடிந்ததாக குறி</string>
+    <string name="error_username_exists">பயனர் பெயர் ஏற்கனவே உள்ளது</string>
+    <string name="theme_mode">டார்க் மோட்</string>
+    <string name="language">மொழி</string>
+    <string name="english">ஆங்கிலம்</string>
+    <string name="hindi">இந்தி</string>
+    <string name="tamil">தமிழ்</string>
+    <string name="telugu">தெலுங்கு</string>
+    <string name="settings">அமைப்புகள்</string>
+    <string name="welcome_back">மீண்டும் வரவேற்கிறோம்!</string>
+    <string name="login">உள்நுழை</string>
+    <string name="logging_in">உள்நுழைகிறது...</string>
+    <string name="forgot_password">கடவுச்சொல் மறந்துவிட்டதா?</string>
+    <string name="error_invalid_credentials">தவறான பயனர் பெயர் அல்லது கடவுச்சொல்</string>
+    <string name="comments">கருத்துகள்</string>
+    <string name="official_dashboard">அதிகாரி டாஷ்போர்டு</string>
+    <string name="my_complaints">எனது புகார்கள்</string>
+    <string name="upcoming_events">வரவிருக்கும் நிகழ்வுகள்</string>
+    <string name="guest_user">விருந்தினர் பயனர்</string>
+    <string name="sign_in_to_access">அம்சங்களை அணுக உள்நுழைக</string>
+    <string name="profile">சுயவிவரம்</string>
+    <string name="logout">வெளியேறு</string>
+    <string name="home">முகப்பு</string>
+    <string name="events">நிகழ்வுகள்</string>
+    <string name="complaints">புகார்கள்</string>
+    <string name="please_sign_in">%1$s செய்ய உள்நுழைக</string>
+    <string name="post_details">பதிவு விவரங்கள்</string>
+    <string name="reopen_issue">பிரச்சினையை மீண்டும் திற</string>
+    <string name="share_post">பதிவை பகிர்</string>
+    <string name="sign_in_to_access_features">அம்சங்களை அணுக உள்நுழைக</string>
+    <string name="please_sign_in_to_view_profile">சுயவிவரத்தை பார்க்க உள்நுழைக</string>
+    <string name="you_re_browsing_as_guest">நீங்கள் விருந்தினராக உலாவுகிறீர்கள்</string>
+    <string name="sign_up_to_access_all_features">எல்லா அம்சங்களையும் அணுக பதிவு செய்</string>
+    <string name="sign_up">பதிவு செய்</string>
+    <string name="please_sign_in_to_create_post">பதிவு உருவாக்க உள்நுழைக</string>
+    <string name="upvoted_post">பதிவு மேல்வாக்கு பெற்றது</string>
+    <string name="downvoted_post">பதிவு கீழ்வாக்கு பெற்றது</string>
+    <string name="search_post">பதிவை தேடு...</string>
+    <string name="categories">பிரிவுகள்</string>
+    <string name="explore">ஆராய்ந்து பார்</string>
+    <string name="account_settings">கணக்கு அமைப்புகள்</string>
+    <string name="notifications">அறிவிப்புகள்</string>
+    <string name="dark_mode">டார்க் மோட்</string>
+    <string name="continue_anonymously">பெயரிலியாக தொடரவும்</string>
+    <string name="citizen_registration">குடிமகன் பதிவு</string>
+    <string name="join_as_community_member">சமூக உறுப்பினராக சேரவும்</string>
+    <string name="official_registration">அதிகாரி பதிவு</string>
+    <string name="join_as_government_official">அரசு அதிகாரியாக சேரவும்</string>
+    <string name="set_up_your_profile">உங்கள் சுயவிவரத்தை அமைக்கவும்</string>
+    <string name="save_profile">சுயவிவரத்தை சேமி</string>
+    <!-- New Strings for Layout -->
+    <string name="user_avatar">பயனர் அவதார்</string>
+    <string name="post_image">பதிவு படம்</string>
+    <string name="commenter_avatar">கருத்து தெரிவிப்பவர் அவதார்</string>
+    <string name="category_icon">வகை சின்னம்</string>
+    <string name="app_settings">ஆப் அமைப்புகள்</string>
+    <string name="dark_theme">இருண்ட தீம்</string>
+    <string name="cancel">ரத்து செய்</string>
+    <string name="save">சேமிக்க</string>
+    <string name="profile_picture">சுயவிவர படம்</string>
+    <string name="change_photo">படத்தை மாற்றவும்</string>
+    <string name="full_name">முழு பெயர்</string>
+
+    <string name="save_changes">மாற்றங்களை சேமிக்க</string>
+    <string name="profile_settings">சுயவிவர அமைப்புகள்</string>
+    <string name="attach_progress_photo">முன்னேற்ற புகைப்படத்தை இணைக்கவும்</string>
+    <string name="attach_image">படத்தை இணைக்கவும்</string>
+    <string name="official_comment">அதிகாரப்பூர்வ கருத்து</string>
+    <string name="remove_image">அகற்று</string>
+
+
+    <string name="official_actions">அதிகாரப்பூர்வ செயல்கள்</string>
+    <string name="actions_taken">எடுத்த நடவடிக்கைகள்</string>
+    <string name="add_action">நடவடிக்கை சேர்க்க</string>
+
+
+    <string name="pinned">பின்னப்பட்டது</string>
+    <string name="view_full_image">முழுவதுமாக காண்க</string>
+    <string name="remove">அகற்று</string>
+    <string name="reply">பதில்</string>
+    <string name="like">விருப்பம்</string>
+
+    <string name="stats_overview">புள்ளிவிவரங்களின் மேற்பார்வை</string>
+    <string name="pending">நிலுவையில்</string>
+    <string name="in_progress">நடைபெறுகிறது</string>
+    <string name="completed">முடிந்தது</string>
+    <string name="recent_activity">சமீபத்திய செயல்பாடு</string>
+    <string name="new_task">புதிய வேலை</string>
+    <string name="menu_search">தேடல்</string>
+    <string name="menu_filter">வடிகட்டி</string>
+    <string name="menu_refresh">புதுப்பிக்க</string>
+    <string name="menu_sort">வரிசைப்படுத்து</string>
+    <string name="menu_settings">அமைப்புகள்</string>
+    <string name="menu_help">உதவி</string>
+    <string name="stat_default">புள்ளிவிவரம்</string>
+    <string name="settings_saved">அமைப்புகள் வெற்றிகரமாக சேமிக்கப்பட்டது</string>
+    <string name="error_field_required">இந்தப் புலம் அவசியமானது</string>
+    <string name="send">அனுப்பு</string>
+    <string name="background_image_description">நகரப் பின்னணி படம்</string>
+    <string name="join_as_official">ஒரு அரச அதிகாரியாக சேரவும்</string>
+    <string name="error_invalid_email">செல்லுபடியாகாத மின்னஞ்சல் முகவரி</string>
+    <string name="error_invalid_phone">செல்லுபடியாகாத தொலைபேசி எண்</string>
+    <string name="error_password_short">கடவுச்சொல் குறைந்தது 6 எழுத்துக்கள் இருக்க வேண்டும்</string>
+    <string name="join_as_citizen">ஒரு சமூக உறுப்பினராக சேரவும்</string>
+    <string name="registering">பதிவு செய்யப்படுகிறது…</string>
+    <string name="error_username_short">பயனர் பெயர் குறைந்தது 4 எழுத்துக்கள் இருக்க வேண்டும்</string>
+    <string name="sign_in_to_continue">தொடரச் சைன் இன் செய்யவும்</string>
+    <string name="or">அல்லது</string>
+    <string name="error_username_required">பயனர் பெயர் தேவையானது</string>
+    <string name="error_password_required">கடவுச்சொல் தேவையானது</string>
+    <string name="error_password_length">கடவுச்சொல் குறைந்தது 6 எழுத்துக்கள் இருக்க வேண்டும்</string>
+    <string name="welcome_message">வரவேற்கிறோம், %1$s!</string>
+    <string name="menu">மெனு</string>
+
+    <string name="guest">விருந்தினர்</string>
+    <string name="search_posts">பதிவுகளை தேடுங்கள்…</string>
+    <string name="guest_warning">நீங்கள் விருந்தினராக உலாவுகிறீர்கள். அனைத்து அம்சங்களையும் அணுக பதிவுசெய்க.</string>
+
+    <string name="add_post">பதிவை சேர்க்க</string>
+    <string name="delete">நீக்கு</string>
+    <string name="feedback">கருத்து</string>
+    <string name="profile_image">சுயவிவர படம்</string>
+    <string name="total_posts">மொத்த பதிவுகள்</string>
+    <string name="notification_channel_name">சிவிக் வொய்ஸ் புதுப்பிப்புகள்</string>
+    <string name="notification_channel_description">பதிவேற்றங்கள் மற்றும் கருத்துகளுக்கான அறிவிப்புகள்</string>
+
+    <string name="official_comment_hint">அதிகாரப்பூர்வக் கருத்தை உள்ளிடவும்...</string>
+    <string name="add_official_comment">அதிகாரப்பூர்வக் கருத்தைச் சேர்க்கவும்</string>
+    <string name="official_comments">அதிகாரப்பூர்வ புதுப்பிப்புகள்</string>
+    <string name="comment_added">அதிகாரப்பூர்வக் கருத்து சேர்க்கப்பட்டது</string>
+
+    <string-array name="official_comment_templates">
+        <item>இந்தப் பிரச்சனையைத் தெரிவித்து தந்ததற்கு நன்றி. நாம் இதை பரிசீலிக்கிறோம்.</item>
+        <item>இந்த பிரச்சனைக்கு தீர்வு காண எங்கள் குழுவுக்கு ஒதுக்கப்பட்டுள்ளது.</item>
+        <item>இந்தப் பிரச்சனையை நாங்கள் சரிபார்த்துவிட்டோம், தீர்வு காண பணிபுரிகிறோம்.</item>
+        <item>இந்த விவகாரம் தீர்க்கப்பட்டுள்ளது. உங்கள் அறிக்கைக்கு நன்றி.</item>
+        <item>இதனைச் செயல்படுத்துவதற்கு மேலும் தகவல் தேவை. தயவுசெய்து எங்களைத் தொடர்புகொள்ளவும்.</item>
+    </string-array>
+
+    <string name="add_task">பணியைச் சேர்க்கவும்</string>
+    <string name="tasks">பணிகள்</string>
+    <string name="title">தலைப்பு</string>
+    <string name="error_invalid_response">பிழை: தவறான பதில்</string>
+
+
+    <string name="create_event">நிகழ்வு உருவாக்கு</string>
+    <string name="event_title">நிகழ்வின் தலைப்பு</string>
+    <string name="event_description">விவரங்கள்</string>
+    <string name="event_date">தேதி</string>
+    <string name="event_location">இடம்</string>
+    <string name="event_department">துறை</string>
+    <string name="submit">சமர்ப்பிக்க</string>
+    <string name="no_events">நிகழ்வுகள் இல்லை</string>
+
+
+    <string name="task_title">பணியின் தலைப்பு</string>
+    <string name="task_description">விளக்கம்</string>
+    <string name="due_date">கடைசி தேதி</string>
+    <string name="submit_task">பணியை சமர்ப்பிக்கவும்</string>
+
+    <string name="name">பெயர்</string>
+    <string name="error_name_required">பெயர் தேவையானது</string>
+
+
+
+
+
+        <string name="create_post_title">பதிவை உருவாக்கு</string>
+        <string name="post_title_hint">பதிவின் தலைப்பு</string>
+        <string name="post_description_hint">விவரம் (எ.கா., #அடித்தளவமைப்பு)</string>
+        <string name="post_location_hint">இடம்</string>
+        <string name="select_image">படத்தை தேர்வு செய்</string>
+
+        <string name="post_image_description">பதிவுப் படம் முன்னோட்டம்</string>
+        <string name="post_hashtags_hint">ஹாஷ்டாக்கள் (எ.கா., #அடித்தளவமைப்பு)</string>
+        <string name="post_department_hint">துறை</string>
+
+
+    <string name="submit_feedback">பின்விளைவுகளை சமர்ப்பிக்கவும்</string>
+    <string name="feedback_hint">உங்கள் பின்னூட்டத்தை உள்ளிடவும்</string>
+
+    <string name="error_feedback_too_short">பின்னூட்டம் குறைந்தது 10 எழுத்துகள் இருக்க வேண்டும்</string>
+    <string name="sign_up_to_comment">கருத்து கூறுவதற்கு பதிவு செய்யவும்</string>
+    <string name="no_comments">இன்னும் கருத்துகள் இல்லை</string>
+    <string name="search_disabled">அநாமதேய பயனர்களுக்கான தேடல் முடக்கப்பட்டுள்ளது</string>
+    <string name="upvote_post">பதிவிற்கு மேலெழுப்பு</string>
+    <string name="downvote_post">பதிவிற்கு கீழெழுப்பு</string>
+    <string name="view_all_comments">அனைத்து கருத்துகளையும் பார்க்க</string>
+    <string name="post_hero_image">பதிவின் ஹீரோ படம்</string>
+    <string name="post_metadata">விவரங்கள்</string>
+    <string name="post_location">இடம்</string>
+    <string name="post_department">துறை</string>
+    <string name="post_status">நிலை</string>
+    <string name="pinned_comment">பின்தொட்டு</string>
+    <string name="location_prefix">இடம்: %s</string>
+    <string name="department_prefix">துறை: %s</string>
+    <string name="status_prefix">நிலை: %s</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string-array name="departments">
+        <item>Select Department</item>
+        <item>Roads</item>
+        <item>Sanitation</item>
+        <item>Water</item>
+        <item>Electricity</item>
+        <item>Public Works</item>
+    </string-array>
+</resources>

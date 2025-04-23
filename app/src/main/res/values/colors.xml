@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Color Palette -->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryLight">#C5CAE9</color>
+    <color name="textColor">#000000</color>
+    <color name="colorPrimaryLight10">#1A3F51B5</color>
+    <color name="officialBadgeColor">#FFD700</color> <!-- Gold for badge -->
+    <color name="officialTextColor">#1A3C34</color> <!-- Dark green for text -->
+    <color name="officialTextSecondary">#5A7D7C</color>
+
+
+    <!-- Secondary Color Palette -->
+    <color name="colorSecondary">#FF5722</color>
+    <color name="colorSecondaryDark">#E64A19</color>
+    <color name="colorSecondaryLight">#FFCCBC</color>
+
+    <!-- Status Colors -->
+    <color name="colorSuccess">#4CAF50</color>
+    <color name="colorWarning">#FFC107</color>
+    <color name="colorError">#F44336</color>
+    <color name="colorInfo">#2196F3</color>
+
+    <!-- Text Colors -->
+    <color name="textColorPrimary">#DE000000</color>  <!-- 87% opacity black -->
+    <color name="textColorSecondary">#8A000000</color> <!-- 54% opacity black -->
+    <color name="textColorHint">#61000000</color>     <!-- 38% opacity black -->
+    <color name="textColorPrimaryInverse">#DEFFFFFF</color>  <!-- 87% opacity white -->
+    <color name="textColorSecondaryInverse">#8AFFFFFF</color> <!-- 54% opacity white -->
+
+    <!-- Background Colors -->
+    <color name="backgroundColor">#FFF5F5F5</color>
+    <color name="surfaceColor">#FFFFFFFF</color>
+    <color name="errorBackground">#FFF8E1</color>
+
+    <!-- Gradient Colors -->
+    <color name="gradientStart">#6200EE</color>
+    <color name="gradientEnd">#03DAC5</color>
+
+    <!-- Component Colors -->
+    <!-- 12% opacity black -->
+    <color name="iconColor">#8A000000</color>    <!-- 54% opacity black -->
+    <color name="iconColorInverse">#8AFFFFFF</color> <!-- 54% opacity white -->
+
+    <!-- State Colors -->
+    <color name="colorPrimary20">#333F51B5</color> <!-- 20% opacity primary -->
+    <color name="colorPrimary10">#1A3F51B5</color> <!-- 10% opacity primary -->
+    <color name="rippleColor">#1F000000</color>   <!-- 12% opacity black -->
+
+    <!-- Dark Theme Colors -->
+    <color name="darkBackground">#FF121212</color>
+    <color name="darkSurface">#FF1E1E1E</color>
+    <color name="darkTextPrimary">#FFFFFFFF</color>
+    <color name="darkTextSecondary">#B3FFFFFF</color>
+    <color name="darkDivider">#1FFFFFFF</color>
+
+    <!-- Material Design Colors (for reference) -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <!-- Utility Colors -->
+    <color name="transparent">#00000000</color>
+    <color name="white_60">#99FFFFFF</color>
+    <color name="black_60">#99000000</color>
+
+    <!-- Legacy Colors (for backward compatibility) -->
+    <color name="light_background">@color/backgroundColor</color>
+    <color name="light_text">@color/textColorPrimary</color>
+    <color name="light_card_background">@color/surfaceColor</color>
+    <color name="light_button_background">@color/colorPrimary</color>
+    <color name="light_button_text">@color/white</color>
+    <color name="light_error">@color/colorError</color>
+    <color name="light_gradient_start">@color/gradientStart</color>
+    <color name="light_gradient_end">@color/gradientEnd</color>
+    <color name="dark_background">@color/darkBackground</color>
+    <color name="dark_text">@color/darkTextPrimary</color>
+    <color name="dark_card_background">@color/darkSurface</color>
+    <color name="dark_button_background">@color/purple_200</color>
+    <color name="dark_button_text">@color/black</color>
+    <color name="dark_error">@color/colorError</color>
+    <color name="dark_gradient_start">@color/purple_200</color>
+    <color name="dark_gradient_end">@color/teal_200</color>
+    <color name="cardBackground">@color/surfaceColor</color>
+    <color name="colorWarningLight">@color/errorBackground</color>
+    <color name="colorWarningDark">#FFA000</color>
+
+    <!-- Primary Color with Opacity Variants -->
+    <color name="colorPrimaryLight20">#33C5CAE9</color>  <!-- 20% opacity of colorPrimaryLight -->
+    <color name="colorPrimaryLight11">#1AC5CAE9</color>  <!-- 10% opacity of colorPrimaryLight -->
+
+    <!-- Primary Color with Opacity Variants -->
+    <!-- 10% opacity -->
+    <color name="colorPrimary5">#0D3F51B5</color>   <!-- 5% opacity -->
+
+    <!-- Error Color with Opacity Variants -->
+    <color name="colorError20">#33F44336</color>    <!-- 20% opacity -->
+    <color name="colorError10">#1AF44336</color>    <!-- 10% opacity -->
+
+    <!-- Success Color with Opacity Variants -->
+    <color name="colorSuccess20">#334CAF50</color>  <!-- 20% opacity -->
+    <color name="colorSuccess10">#1A4CAF50</color>  <!-- 10% opacity -->
+
+    <color name="gray_400">#BDBDBD</color>
+    <color name="errorColor">#E00F0F</color>
+    <color name="colorNotificationUnread">#E0F7FA</color>
+
+
+    <color name="chipBackground">#E0E0E0</color>
+    <color name="colorAccent">#FF5722</color>
+
+
+    <color name="notification_read">#FFFFFF</color>
+    <color name="notification_unread">#F5F5F5</color>
+    <color name="dividerColor">#B0B0B0</color>
+
+
+
+
+    <color name="red_error">#D32F2F</color>
+
+    <color name="colorPrimaryVariant">#3700B3</color>
+
+    <color name="background_light">#F5F5F5</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+
+    <color name="md_theme_light_primary">#3F51B5</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#C5CAE9</color>
+    <color name="md_theme_light_onPrimaryContainer">#1A237E</color>
+    <color name="md_theme_light_secondary">#FF4081</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_secondaryContainer">#FF80AB</color>
+    <color name="md_theme_light_onSecondaryContainer">#880E4F</color>
+    <color name="md_theme_light_background">#F5F7FA</color>
+    <color name="md_theme_light_surface">#FFFFFF</color>
+    <color name="md_theme_light_onSurface">#212121</color>
+
+
+
+
+    <color name="colorSecondaryVariant">#018786</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnSurface">#000000</color>
+
+
+
+    <color name="md_theme_light_outline">#79747E</color>
+    <color name="md_theme_light_onSurfaceVariant">#49454F</color>
+
+
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729890118372",
+    "project_id": "jansankalp-84ddd",
+    "storage_bucket": "jansankalp-84ddd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729890118372:android:16e73d165edf387514aaf1",
+        "android_client_info": {
+          "package_name": "com.example.civicvoice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoyv8KKTL_DM06ksAcijJQwyDgOgb4rsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

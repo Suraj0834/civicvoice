@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">जनसंकल्प</string>
+    <string name="register">रजिस्टर</string>
+    <string name="sign_in">साइन इन</string>
+    <string name="anonymous_login">अज्ञात लॉगिन</string>
+    <string name="normal_user">सामान्य उपयोगकर्ता</string>
+    <string name="official">अधिकारी</string>
+    <string name="username">उपयोगकर्ता नाम</string>
+    <string name="email">ईमेल</string>
+    <string name="password">पासवर्ड</string>
+    <string name="phone_number">फोन नंबर</string>
+    <string name="department">विभाग</string>
+    <string name="create_post">पोस्ट बनाएं</string>
+    <string name="upload_image">छवि अपलोड करें</string>
+    <string name="location">स्थान</string>
+    <string name="description">विवरण</string>
+    <string name="hashtags">हैशटैग (अल्पविराम से अलग)</string>
+    <string name="submit_post">पोस्ट सबमिट करें</string>
+    <string name="upvote">उपवोट</string>
+    <string name="downvote">डाउनवोट</string>
+    <string name="add_comment">टिप्पणी जोड़ें</string>
+    <string name="post_comment">टिप्पणी पोस्ट करें</string>
+    <string name="mark_in_progress">प्रगति में चिह्नित करें</string>
+    <string name="mark_completed">पूर्ण चिह्नित करें</string>
+    <string name="error_username_exists">उपयोगकर्ता नाम पहले से मौजूद है</string>
+    <string name="theme_mode">डार्क मोड</string>
+    <string name="language">भाषा</string>
+    <string name="english">अंग्रेजी</string>
+    <string name="hindi">हिंदी</string>
+    <string name="tamil">तमिल</string>
+    <string name="telugu">तेलुगु</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="welcome_back">वापस स्वागत है!</string>
+    <string name="login">लॉगिन</string>
+    <string name="logging_in">लॉगिन हो रहा है...</string>
+    <string name="forgot_password">पासवर्ड भूल गए?</string>
+    <string name="error_invalid_credentials">अमान्य उपयोगकर्ता नाम या पासवर्ड</string>
+    <string name="comments">टिप्पणियाँ</string>
+    <string name="official_dashboard">अधिकारी डैशबोर्ड</string>
+    <string name="my_complaints">मेरी शिकायतें</string>
+    <string name="upcoming_events">आगामी आयोजन</string>
+    <string name="guest_user">अतिथि उपयोगकर्ता</string>
+    <string name="sign_in_to_access">सुविधाओं तक पहुँचने के लिए साइन इन करें</string>
+    <string name="profile">प्रोफाइल</string>
+    <string name="logout">लॉगआउट</string>
+    <string name="home">होम</string>
+    <string name="events">आयोजन</string>
+    <string name="complaints">शिकायतें</string>
+    <string name="please_sign_in">%1$s के लिए साइन इन करें</string>
+    <string name="post_details">पोस्ट विवरण</string>
+    <string name="reopen_issue">मुद्दा फिर से खोलें</string>
+    <string name="share_post">पोस्ट साझा करें</string>
+    <string name="sign_in_to_access_features">सुविधाओं तक पहुँचने के लिए साइन इन करें</string>
+    <string name="please_sign_in_to_view_profile">प्रोफाइल देखने के लिए साइन इन करें</string>
+    <string name="you_re_browsing_as_guest">आप अतिथि के रूप में ब्राउज़ कर रहे हैं</string>
+    <string name="sign_up_to_access_all_features">सभी सुविधाओं तक पहुँचने के लिए साइन अप करें</string>
+    <string name="sign_up">साइन अप</string>
+    <string name="please_sign_in_to_create_post">पोस्ट बनाने के लिए साइन इन करें</string>
+    <string name="upvoted_post">पोस्ट को उपवोट किया गया</string>
+    <string name="downvoted_post">पोस्ट को डाउनवोट किया गया</string>
+    <string name="search_post">पोस्ट खोजें...</string>
+    <string name="categories">श्रेणियाँ</string>
+    <string name="explore">अन्वेषण करें</string>
+    <string name="account_settings">खाता सेटिंग्स</string>
+    <string name="notifications">सूचनाएँ</string>
+    <string name="dark_mode">डार्क मोड</string>
+    <string name="continue_anonymously">अज्ञात रूप से जारी रखें</string>
+    <string name="citizen_registration">नागरिक पंजीकरण</string>
+    <string name="join_as_community_member">समुदाय के सदस्य के रूप में शामिल हों</string>
+    <string name="official_registration">अधिकारी पंजीकरण</string>
+    <string name="join_as_government_official">सरकारी अधिकारी के रूप में शामिल हों</string>
+    <string name="set_up_your_profile">अपनी प्रोफाइल सेट करें</string>
+    <string name="save_profile">प्रोफाइल सहेजें</string>
+    <!-- New Strings for Layout -->
+    <string name="user_avatar">उपयोगकर्ता अवतार</string>
+    <string name="post_image">पोस्ट छवि</string>
+    <string name="commenter_avatar">टिप्पणीकर्ता अवतार</string>
+
+    <string name="category_icon">श्रेणी चिह्न</string>
+    <string name="app_settings">ऐप सेटिंग्स</string>
+    <string name="dark_theme">डार्क थीम</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="save">सहेजें</string>
+    <string name="profile_picture">प्रोफ़ाइल तस्वीर</string>
+    <string name="change_photo">फ़ोटो बदलें</string>
+    <string name="full_name">पूरा नाम</string>
+
+    <string name="save_changes">परिवर्तन सहेजें</string>
+    <string name="profile_settings">प्रोफ़ाइल सेटिंग्स</string>
+    <string name="attach_progress_photo">प्रगति फ़ोटो संलग्न करें</string>
+    <string name="attach_image">छवि संलग्न करें</string>
+    <string name="official_comment">आधिकारिक टिप्पणी</string>
+    <string name="remove_image">हटाएँ</string>
+
+
+    <string name="official_actions">आधिकारिक कार्य</string>
+    <string name="actions_taken">लिया गया कार्य</string>
+    <string name="add_action">कार्रवाई जोड़ें</string>
+
+
+    <string name="pinned">पिन किया गया</string>
+    <string name="view_full_image">पूरा देखें</string>
+    <string name="remove">हटाएं</string>
+    <string name="reply">उत्तर दें</string>
+    <string name="like">पसंद</string>
+    <string name="stats_overview">आंकड़ों का अवलोकन</string>
+    <string name="pending">लंबित</string>
+    <string name="in_progress">चालू है</string>
+    <string name="completed">पूरा हुआ</string>
+    <string name="recent_activity">हाल की गतिविधि</string>
+    <string name="new_task">नया कार्य</string>
+    <string name="menu_search">खोज</string>
+    <string name="menu_filter">फ़िल्टर</string>
+    <string name="menu_refresh">ताज़ा करें</string>
+    <string name="menu_sort">क्रमबद्ध करें</string>
+    <string name="menu_settings">सेटिंग्स</string>
+    <string name="menu_help">सहायता</string>
+    <string name="stat_default">सांख्यिकी</string>
+    <string name="settings_saved">सेटिंग्स सफलतापूर्वक सहेजी गई</string>
+    <string name="error_field_required">यह फ़ील्ड आवश्यक है</string>
+    <string name="send">भेजें</string>
+    <string name="background_image_description">शहर की पृष्ठभूमि छवि</string>
+    <string name="join_as_official">एक सरकारी अधिकारी के रूप में शामिल हों</string>
+    <string name="error_invalid_email">अमान्य ईमेल पता</string>
+    <string name="error_invalid_phone">अमान्य फोन नंबर</string>
+    <string name="error_password_short">पासवर्ड कम से कम 6 अक्षरों का होना चाहिए</string>
+    <string name="join_as_citizen">एक समुदाय सदस्य के रूप में शामिल हों</string>
+    <string name="registering">पंजीकरण हो रहा है…</string>
+    <string name="error_username_short">उपयोगकर्ता नाम कम से कम 4 अक्षरों का होना चाहिए</string>
+
+    <string name="sign_in_to_continue">जारी रखने के लिए साइन इन करें</string>
+
+    <string name="or">या</string>
+    <string name="error_username_required">उपयोगकर्ता नाम आवश्यक है</string>
+    <string name="error_password_required">पासवर्ड आवश्यक है</string>
+    <string name="error_password_length">पासवर्ड कम से कम 6 अक्षरों का होना चाहिए</string>
+    <string name="welcome_message">स्वागत है, %1$s!</string>
+    <string name="menu">मेनू</string>
+
+    <string name="guest">अतिथि</string>
+    <string name="search_posts">पोस्ट खोजें…</string>
+    <string name="guest_warning">आप अतिथि के रूप में ब्राउज़ कर रहे हैं। सभी सुविधाओं का उपयोग करने के लिए साइन अप करें।</string>
+
+    <string name="add_post">पोस्ट जोड़ें</string>
+    <string name="delete">हटाएं</string>
+    <string name="feedback">प्रतिक्रिया</string>
+    <string name="profile_image">प्रोफ़ाइल छवि</string>
+    <string name="total_posts">कुल पोस्ट</string>
+    <string name="notification_channel_name">सिविक वॉइस अपडेट्स</string>
+    <string name="notification_channel_description">पोस्ट अपडेट और टिप्पणियों के लिए सूचनाएँ</string>
+
+    <string name="official_comment_hint">आधिकारिक टिप्पणी दर्ज करें...</string>
+    <string name="add_official_comment">आधिकारिक टिप्पणी जोड़ें</string>
+    <string name="official_comments">आधिकारिक अपडेट</string>
+    <string name="comment_added">आधिकारिक टिप्पणी जोड़ी गई</string>
+    <string name="error_invalid_response">त्रुटि: अमान्य प्रतिक्रिया</string>
+
+    <string-array name="official_comment_templates">
+        <item>इस समस्या की रिपोर्ट करने के लिए धन्यवाद। हम इसे देख रहे हैं।</item>
+        <item>इस समस्या को हल करने के लिए हमारी टीम को सौंपा गया है।</item>
+        <item>हमने इस समस्या की पुष्टि कर ली है और समाधान पर काम कर रहे हैं।</item>
+        <item>यह मामला हल कर दिया गया है। आपकी रिपोर्ट के लिए धन्यवाद।</item>
+        <item>इसे संसाधित करने के लिए हमें अधिक जानकारी की आवश्यकता है। कृपया हमसे संपर्क करें।</item>
+    </string-array>
+
+    <string name="add_task">कार्य जोड़ें</string>
+    <string name="tasks">कार्यों</string>
+    <string name="title">शीर्षक</string>
+
+
+    <string name="create_event">कार्यक्रम बनाएँ</string>
+    <string name="event_title">कार्यक्रम का शीर्षक</string>
+    <string name="event_description">विवरण</string>
+    <string name="event_date">तिथि</string>
+    <string name="event_location">स्थान</string>
+    <string name="event_department">विभाग</string>
+    <string name="submit">जमा करें</string>
+    <string name="no_events">कोई कार्यक्रम उपलब्ध नहीं है</string>
+
+    <string name="task_title">कार्य शीर्षक</string>
+    <string name="task_description">विवरण</string>
+    <string name="due_date">नियत तिथि</string>
+    <string name="submit_task">कार्य जमा करें</string>
+
+    <string name="name">नाम</string>
+    <string name="error_name_required">नाम आवश्यक है</string>
+
+
+
+
+
+
+        <string name="create_post_title">पोस्ट बनाएं</string>
+        <string name="post_title_hint">पोस्ट का शीर्षक</string>
+        <string name="post_description_hint">विवरण (उदाहरण: #बुनियादीढांचा)</string>
+        <string name="post_location_hint">स्थान</string>
+        <string name="select_image">छवि चुनें</string>
+
+        <string name="post_image_description">पोस्ट छवि पूर्वावलोकन</string>
+        <string name="post_hashtags_hint">हैशटैग (उदाहरण: #बुनियादीढांचा)</string>
+        <string name="post_department_hint">विभाग</string>
+
+
+    <string name="submit_feedback">प्रतिक्रिया सबमिट करें</string>
+    <string name="feedback_hint">अपनी प्रतिक्रिया दर्ज करें</string>
+
+    <string name="error_feedback_too_short">प्रतिक्रिया कम से कम 10 अक्षरों की होनी चाहिए</string>
+
+    <string name="sign_up_to_comment">टिप्पणी करने के लिए साइन अप करें</string>
+    <string name="no_comments">अभी तक कोई टिप्पणी नहीं</string>
+    <string name="view_all_comments">सभी %d टिप्पणियाँ देखें</string>
+    <string name="search_disabled">गुमनाम उपयोगकर्ताओं के लिए खोज अक्षम है</string>
+    <string name="upvote_post">पोस्ट को अपवोट करें</string>
+    <string name="downvote_post">पोस्ट को डाउनवोट करें</string>
+    <string name="post_hero_image">पोस्ट हीरो छवि</string>
+    <string name="post_metadata">विवरण</string>
+    <string name="post_location">स्थान</string>
+    <string name="post_department">विभाग</string>
+    <string name="post_status">स्थिति</string>
+    <string name="pinned_comment">पिन की गई</string>
+    <string name="location_prefix">स्थान: %s</string>
+    <string name="department_prefix">विभाग: %s</string>
+    <string name="status_prefix">स्थिति: %s</string>
+
+
+
+</resources>

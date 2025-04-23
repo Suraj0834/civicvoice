@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JanSankalp</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="anonymous_login">Anonymous Login</string>
+    <string name="normal_user">Normal User</string>
+    <string name="official">Official</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="department">Department</string>
+    <string name="create_post">Create Post</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="location">Location</string>
+    <string name="description">Description</string>
+    <string name="hashtags">Hashtags (comma-separated)</string>
+    <string name="submit_post">Submit Post</string>
+    <string name="upvote">Upvote</string>
+    <string name="downvote">Downvote</string>
+    <string name="add_comment">Add a Comment</string>
+    <string name="post_comment">Post Comment</string>
+    <string name="mark_in_progress">Mark In Progress</string>
+    <string name="mark_completed">Mark Completed</string>
+    <string name="error_username_exists">Username already exists</string>
+    <string name="theme_mode">Dark Mode</string>
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+    <string name="tamil">Tamil</string>
+    <string name="telugu">Telugu</string>
+    <string name="settings">Settings</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="login">Login</string>
+    <string name="logging_in">Logging In...</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="error_invalid_credentials">Invalid username or password</string>
+    <string name="error_username_required">Username required</string>
+    <string name="error_password_required">Password required</string>
+    <string name="error_password_length">Password must be at least 6 characters</string>
+    <string name="welcome_message">Welcome, %1$s!</string>
+    <string name="comments">Comments</string>
+    <string name="official_dashboard">Official Dashboard</string>
+    <string name="my_complaints">My Complaints</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="guest_user">Guest User</string>
+    <string name="sign_in_to_access">Sign in to access features</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="home">Home</string>
+    <string name="events">Events</string>
+    <string name="complaints">Complaints</string>
+    <string name="please_sign_in">Please sign in to %1$s</string>
+    <string name="post_details">Post Details</string>
+    <string name="reopen_issue">Reopen Issue</string>
+    <string name="share_post">Share Post</string>
+    <string name="sign_in_to_access_features">Sign in to access features</string>
+    <string name="please_sign_in_to_view_profile">Please sign in to view profile</string>
+    <string name="you_re_browsing_as_guest">You\'re browsing as guest</string>
+    <string name="sign_up_to_access_all_features">Sign up to access all features</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="please_sign_in_to_create_post">Please sign in to create a post</string>
+    <string name="upvoted_post">Upvoted post</string>
+    <string name="downvoted_post">Downvoted post</string>
+    <string name="search_post">Search post...</string>
+    <string name="categories">Categories</string>
+    <string name="explore">Explore</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="notifications">Notifications</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="continue_anonymously">Continue Anonymously</string>
+    <string name="citizen_registration">Citizen Registration</string>
+    <string name="join_as_community_member">Join as a community member</string>
+    <string name="official_registration">Official Registration</string>
+    <string name="join_as_government_official">Join as a government official</string>
+    <string name="set_up_your_profile">Set Up Your Profile</string>
+    <string name="save_profile">Save Profile</string>
+    <!-- New Strings for Layout -->
+    <string name="user_avatar">User Avatar</string>
+    <string name="post_image">Post Image</string>
+    <string name="commenter_avatar">Commenter Avatar</string>
+    <string name="category_icon">Category icon</string>
+    <string name="app_settings">App Settings</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="profile_picture">Profile picture</string>
+    <string name="change_photo">Change photo</string>
+    <string name="full_name">Full name</string>
+
+    <string name="save_changes">Save changes</string>
+    <string name="profile_settings">Profile Settings</string>
+    <string name="attach_progress_photo">Attach progress photo</string>
+    <string name="attach_image">Attach Image</string>
+    <string name="official_comment">OFFICIAL COMMENT</string>
+    <string name="remove_image">Remove</string>
+
+
+    <string name="official_actions">Official Actions</string>
+    <string name="actions_taken">Actions Taken</string>
+    <string name="add_action">Add Action</string>
+
+
+    <string name="pinned">PINNED</string>
+    <string name="view_full_image">View Full</string>
+    <string name="remove">Remove</string>
+    <string name="reply">Reply</string>
+    <string name="like">Like</string>
+
+    <string name="stats_overview">Statistics</string>
+    <string name="pending">Pending</string>
+    <string name="in_progress">In Progress</string>
+    <string name="completed">Completed</string>
+    <string name="recent_activity">Recent Activity</string>
+    <string name="new_task">New Task</string>
+
+    <string name="menu_search">Search</string>
+    <string name="menu_filter">Filter</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_sort">Sort</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_help">Help</string>
+    <string name="stat_default">Statistic</string>
+
+    <string name="settings_saved">Settings saved successfully</string>
+
+    <string name="error_field_required">This field is required</string>
+    <string name="send">Send</string>
+    <string name="background_image_description">City background image</string>
+    <string name="join_as_official">Join as a government official</string>
+
+    <string name="error_invalid_email">Invalid email address</string>
+    <string name="error_invalid_phone">Invalid phone number</string>
+    <string name="error_password_short">Password must be at least 6 characters</string>
+    <string name="join_as_citizen">Join as a community member</string>
+
+    <string name="registering">Registering…</string>
+
+    <string name="error_username_short">Username must be at least 4 characters</string>
+
+    <string name="sign_in_to_continue">Sign in to continue</string>
+
+    <string name="or">OR</string>
+
+    <string name="menu">Menu</string>
+
+    <string name="guest">GUEST</string>
+    <string name="search_posts">Search posts…</string>
+    <string name="guest_warning">You\'re browsing as a guest. Sign up to access all features.</string>
+
+    <string name="add_post">Add Post</string>
+    <string name="delete">Delete</string>
+    <string name="feedback">Feedback</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="total_posts">Total posts</string>
+    <string name="notification_channel_name">Civic Voice Updates</string>
+    <string name="notification_channel_description">Notifications for post updates and comments</string>
+
+
+    <string name="official_comment_hint">Enter official comment...</string>
+    <string name="add_official_comment">Add Official Comment</string>
+    <string name="official_comments">Official Updates</string>
+    <string name="comment_added">Official comment added</string>
+
+    <string-array name="official_comment_templates">
+        <item>Thank you for reporting this issue. We\'re looking into it.</item>
+        <item>This issue has been assigned to our team for resolution.</item>
+        <item>We\'ve verified this issue and are working on a solution.</item>
+        <item>This matter has been resolved. Thank you for your report.</item>
+        <item>We need more information to process this. Please contact us.</item>
+    </string-array>
+
+
+    <string name="add_task">Add Task</string>
+    <string name="tasks">Tasks</string>
+    <string name="title">Title</string>
+
+
+    <string name="error_invalid_response">Error Invalid Response</string>
+
+
+    <string name="create_event">Create Event</string>
+    <string name="event_title">Event Title</string>
+    <string name="event_description">Description</string>
+    <string name="event_date">Date</string>
+    <string name="event_location">Location</string>
+    <string name="event_department">Department</string>
+    <string name="submit">Submit</string>
+    <string name="no_events">No events available</string>
+
+
+
+
+    <string name="task_title">Task Title</string>
+    <string name="task_description">Description</string>
+    <string name="due_date">Due Date</string>
+    <string name="submit_task">Submit Task</string>
+    <string name="name">Name</string>
+    <string name="error_name_required">Name is required</string>
+        <string name="create_post_title">Create Post</string>
+        <string name="post_title_hint">Post Title</string>
+        <string name="post_description_hint">Description (e.g., #Infrastructure)</string>
+        <string name="post_location_hint">Location</string>
+        <string name="select_image">Select Image</string>
+        <string name="post_image_description">Post Image Preview</string>
+        <string name="post_hashtags_hint">Hashtags (e.g., #Infrastructure)</string>
+        <string name="post_department_hint">Department</string>
+    <string name="submit_feedback">Submit Feedback</string>
+    <string name="feedback_hint">Enter your feedback</string>
+    <string name="error_feedback_too_short">Feedback must be at least 10 characters</string>
+    <string name="sign_up_to_comment">Sign up to comment</string>
+    <string name="no_comments">No comments yet</string>
+    <string name="view_all_comments">View all %d comments</string>
+    <string name="search_disabled">Search disabled for anonymous users</string>
+    <string name="upvote_post">Upvote post</string>
+    <string name="downvote_post">Downvote post</string>
+    <string name="post_hero_image">Post hero image</string>
+    <string name="post_metadata">Details</string>
+    <string name="post_location">Location</string>
+    <string name="post_department">Department</string>
+    <string name="post_status">Status</string>
+    <string name="pinned_comment">Pinned</string>
+    <string name="location_prefix">Location: %s</string>
+    <string name="department_prefix">Department: %s</string>
+    <string name="status_prefix">Status: %s</string>
+</resources>

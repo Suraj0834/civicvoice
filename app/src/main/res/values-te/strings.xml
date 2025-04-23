@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">జనసంకల్ప్</string>
+    <string name="register">రిజిస్టర్</string>
+    <string name="sign_in">సైన్ ఇన్</string>
+    <string name="anonymous_login">అనామక లాగిన్</string>
+    <string name="normal_user">సాధారణ వినియోగదారు</string>
+    <string name="official">అధికారి</string>
+    <string name="username">వినియోగదారు పేరు</string>
+    <string name="email">ఇమెయిల్</string>
+    <string name="password">పాస్‌వర్డ్</string>
+    <string name="phone_number">ఫోన్ నంబర్</string>
+    <string name="department">విభాగం</string>
+    <string name="create_post">పోస్ట్ సృష్టించు</string>
+    <string name="upload_image">చిత్రం అప్‌లోడ్ చేయి</string>
+    <string name="location">స్థానం</string>
+    <string name="description">వివరణ</string>
+    <string name="hashtags">హ్యాష్‌ట్యాగ్‌లు (కామాతో వేరు చేయబడినవి)</string>
+    <string name="submit_post">పోస్ట్ సమర్పించు</string>
+    <string name="upvote">అప్‌వోట్</string>
+    <string name="downvote">డౌన్‌వోట్</string>
+    <string name="add_comment">వ్యాఖ్య జోడించు</string>
+    <string name="post_comment">వ్యాఖ్య పోస్ట్ చేయి</string>
+    <string name="mark_in_progress">పురోగతిలో గుర్తించు</string>
+    <string name="mark_completed">పూర్తయినట్లు గుర్తించు</string>
+    <string name="error_username_exists">వినియోగదారు పేరు ఇప్పటికే ఉంది</string>
+    <string name="theme_mode">డార్క్ మోడ్</string>
+    <string name="language">భాష</string>
+    <string name="english">ఇంగ్లీష్</string>
+    <string name="hindi">హిందీ</string>
+    <string name="tamil">తమిళం</string>
+    <string name="telugu">తెలుగు</string>
+    <string name="settings">సెట్టింగ్‌లు</string>
+    <string name="welcome_back">మీకు స్వాగతం!</string>
+    <string name="login">లాగిన్</string>
+    <string name="logging_in">లాగిన్ అవుతోంది...</string>
+    <string name="forgot_password">పాస్‌వర్డ్ మర్చిపోయారా?</string>
+    <string name="error_invalid_credentials">తప్పు వినియోగదారు పేరు లేదా పాస్‌వర్డ్</string>
+    <string name="comments">వ్యాఖ్యలు</string>
+    <string name="official_dashboard">అధికారి డాష్‌బోర్డ్</string>
+    <string name="my_complaints">నా ఫిర్యాదులు</string>
+    <string name="upcoming_events">రాబోయే ఈవెంట్‌లు</string>
+    <string name="guest_user">అతిథి వినియోగదారు</string>
+    <string name="sign_in_to_access">ఫీచర్‌లను యాక్సెస్ చేయడానికి సైన్ ఇన్ చేయండి</string>
+    <string name="profile">ప్రొఫైల్</string>
+    <string name="logout">లాగ్అవుట్</string>
+    <string name="home">హోమ్</string>
+    <string name="events">ఈవెంట్‌లు</string>
+    <string name="complaints">ఫిర్యాదులు</string>
+    <string name="please_sign_in">%1$s కోసం సైన్ ఇన్ చేయండి</string>
+    <string name="post_details">పోస్ట్ వివరాలు</string>
+    <string name="reopen_issue">సమస్యను మళ్లీ తెరవండి</string>
+    <string name="share_post">పోస్ట్ షేర్ చేయండి</string>
+    <string name="sign_in_to_access_features">ఫీచర్‌లను యాక్సెస్ చేయడానికి సైన్ ఇన్ చేయండి</string>
+    <string name="please_sign_in_to_view_profile">ప్రొఫైల్‌ను చూడటానికి సైన్ ఇన్ చేయండి</string>
+    <string name="you_re_browsing_as_guest">మీరు అతిథిగా బ్రౌజ్ చేస్తున్నారు</string>
+    <string name="sign_up_to_access_all_features">అన్ని ఫీచర్‌లను యాక్సెస్ చేయడానికి సైన్ అప్ చేయండి</string>
+    <string name="sign_up">సైన్ అప్</string>
+    <string name="please_sign_in_to_create_post">పోస్ట్ సృష్టించడానికి సైన్ ఇన్ చేయండి</string>
+    <string name="upvoted_post">పోస్ట్ అప్‌వోట్ చేయబడింది</string>
+    <string name="downvoted_post">పోస్ట్ డౌన్‌వోట్ చేయబడింది</string>
+    <string name="search_post">పోస్ట్‌ను వెతకండి...</string>
+    <string name="categories">వర్గాలు</string>
+    <string name="explore">అన్వేషించండి</string>
+    <string name="account_settings">ఖాతా సెట్టింగ్‌లు</string>
+    <string name="notifications">నోటిఫికేషన్‌లు</string>
+    <string name="dark_mode">డార్క్ మోడ్</string>
+    <string name="continue_anonymously">అనామకంగా కొనసాగించండి</string>
+    <string name="citizen_registration">పౌరుడి రిజిస్ట్రేషన్</string>
+    <string name="join_as_community_member">సముదాయ సభ్యుడిగా చేరండి</string>
+    <string name="official_registration">అధికారి రిజిస్ట్రేషన్</string>
+    <string name="join_as_government_official">ప్రభుత్వ అధికారిగా చేరండి</string>
+    <string name="set_up_your_profile">మీ ప్రొఫైల్‌ను సెటప్ చేయండి</string>
+    <string name="save_profile">ప్రొఫైల్‌ను సేవ్ చేయండి</string>
+    <!-- New Strings for Layout -->
+    <string name="user_avatar">వినియోగదారు అవతార్</string>
+    <string name="post_image">పోస్ట్ చిత్రం</string>
+    <string name="commenter_avatar">వ్యాఖ్యాత అవతార్</string>
+    <string name="category_icon">వర్గం చిహ్నం</string>
+    <string name="app_settings">యాప్ సెట్టింగ్‌లు</string>
+    <string name="dark_theme">డార్క్ థీమ్</string>
+    <string name="cancel">రద్దు చేయండి</string>
+    <string name="save">సేవ్ చేయండి</string>
+    <string name="profile_picture">ప్రొఫైల్ చిత్రం</string>
+    <string name="change_photo">ఫోటో మార్చండి</string>
+    <string name="full_name">పూర్తి పేరు</string>
+
+    <string name="save_changes">మార్పులను సేవ్ చేయండి</string>
+    <string name="profile_settings">ప్రొఫైల్ సెట్టింగ్‌లు</string>
+    <string name="attach_progress_photo">ప్రగతి ఫోటోను అటాచ్ చేయండి</string>
+    <string name="attach_image">చిత్రాన్ని అటాచ్ చేయండి</string>
+    <string name="official_comment">అధికారిక వ్యాఖ్య</string>
+    <string name="remove_image">తొలగించు</string>
+
+    <string name="official_actions">అధికారిక చర్యలు</string>
+    <string name="actions_taken">తీసుకున్న చర్యలు</string>
+    <string name="add_action">చర్యను జోడించండి</string>
+
+
+
+    <string name="pinned">పిన్నెడ్</string>
+    <string name="view_full_image">పూర్తిగా చూడండి</string>
+    <string name="remove">తొలగించండి</string>
+    <string name="reply">ప్రతిస్పందించండి</string>
+    <string name="like">ఇష్టమైన</string>
+
+    <string name="stats_overview">గణాంకాల అవలోకనం</string>
+    <string name="pending">పెండింగ్</string>
+    <string name="in_progress">ప్రగతిలో ఉంది</string>
+    <string name="completed">పూర్తయింది</string>
+    <string name="recent_activity">ఇటీవలి కార్యాచరణ</string>
+    <string name="new_task">కొత్త పని</string>
+    <string name="menu_search">వెతకండి</string>
+    <string name="menu_filter">ఫిల్టర్</string>
+    <string name="menu_refresh">రిఫ్రెష్</string>
+    <string name="menu_sort">క్రమబద్ధీకరించు</string>
+    <string name="menu_settings">సెట్టింగ్‌లు</string>
+    <string name="menu_help">సహాయం</string>
+    <string name="stat_default">గణాంకం</string>
+    <string name="settings_saved">సెట్టింగ్‌లు విజయవంతంగా సేవ్ చేయబడ్డాయి</string>
+    <string name="error_field_required">ఈ ఫీల్డ్ అవసరం</string>
+    <string name="send">పంపండి</string>
+    <string name="background_image_description">నగర నేపథ్య చిత్రం</string>
+    <string name="join_as_official">ప్రభుత్వ అధికారి గా చేరండి</string>
+
+    <string name="error_invalid_email">చెల్లని ఇమెయిల్ చిరునామా</string>
+    <string name="error_invalid_phone">చెల్లని ఫోన్ నంబర్</string>
+    <string name="error_password_short">పాస్వర్డ్ కనీసం 6 అక్షరాలుండాలి</string>
+    <string name="join_as_citizen">సమాజ సభ్యుడిగా చేరండి</string>
+
+    <string name="registering">నమోదు జరుగుతోంది…</string>
+
+    <string name="error_username_short">వినియోగదారు పేరు కనీసం 4 అక్షరాలుండాలి</string>
+
+    <string name="sign_in_to_continue">కొనసాగించేందుకు సైన్ ఇన్ చేయండి</string>
+
+    <string name="or">లేదా</string>
+    <string name="error_username_required">వినియోగదారు పేరు అవసరం</string>
+    <string name="error_password_required">పాస్వర్డ్ అవసరం</string>
+    <string name="error_password_length">పాస్వర్డ్ కనీసం 6 అక్షరాలు ఉండాలి</string>
+
+    <string name="welcome_message">స్వాగతం, %1$s!</string>
+    <string name="menu">మెను</string>
+
+    <string name="guest">అతిథి</string>
+    <string name="search_posts">పోస్టులను వెతకండి…</string>
+    <string name="guest_warning">మీరు అతిథిగా బ్రౌజ్ చేస్తున్నారు. అన్ని ఫీచర్లను యాక్సెస్ చేయడానికి సైన్ అప్ చేయండి.</string>
+
+    <string name="add_post">పోస్ట్ జోడించండి</string>
+    <string name="delete">తొలగించు</string>
+    <string name="feedback">ప్రతిస్పందన</string>
+    <string name="profile_image">ప్రొఫైల్ చిత్రం</string>
+    <string name="total_posts">మొత్తం పోస్టులు</string>
+    <string name="notification_channel_name">సివిక్ వాయిస్ అప్‌డేట్‌లు</string>
+    <string name="notification_channel_description">పోస్ట్ నవీకరణలు మరియు వ్యాఖ్యల కోసం నోటిఫికేషన్లు</string>
+
+    <string name="official_comment_hint">అధికారిక వ్యాఖ్యను నమోదు చేయండి...</string>
+    <string name="add_official_comment">అధికారిక వ్యాఖ్యను జోడించండి</string>
+    <string name="official_comments">అధికారిక నవీకరణలు</string>
+    <string name="comment_added">అధికారిక వ్యాఖ్య జోడించబడింది</string>
+
+    <string-array name="official_comment_templates">
+        <item>ఈ సమస్యను నివేదించినందుకు ధన్యవాదాలు. మేము దీన్ని పరిశీలిస్తున్నాము.</item>
+        <item>ఈ సమస్యను పరిష్కరించేందుకు మా బృందానికి కేటాయించాము.</item>
+        <item>మేము ఈ సమస్యను ధృవీకరించాము మరియు పరిష్కారంపై పని చేస్తున్నాము.</item>
+        <item>ఈ సమస్యను పరిష్కరించాము. మీ నివేదికకు ధన్యవాదాలు.</item>
+        <item>దీనిని ప్రాసెస్ చేయడానికి మాకు మరింత సమాచారం అవసరం. దయచేసి మమ్మల్ని సంప్రదించండి.</item>
+    </string-array>
+    <string name="add_task">పనిని జోడించండి</string>
+    <string name="tasks">పనులు</string>
+    <string name="title">శీర్షిక</string>
+    <string name="error_invalid_response">లోపం: చెల్లని ప్రతిస్పందన</string>
+
+
+
+    <string name="create_event">ఈవెంట్ సృష్టించండి</string>
+    <string name="event_title">ఈవెంట్ శీర్షిక</string>
+    <string name="event_description">వివరణ</string>
+    <string name="event_date">తేదీ</string>
+    <string name="event_location">స్థానం</string>
+    <string name="event_department">శాఖ</string>
+    <string name="submit">సమర్పించండి</string>
+    <string name="no_events">ఈవెంట్లు లభ్యం కావు</string>
+
+
+    <string name="task_title">పని శీర్షిక</string>
+    <string name="task_description">వివరణ</string>
+    <string name="due_date">గడువు తేది</string>
+    <string name="submit_task">పని సమర్పించండి</string>
+    <string name="name">పేరు</string>
+    <string name="error_name_required">పేరు అవసరం</string>
+
+
+
+
+
+        <string name="create_post_title">పోస్ట్ సృష్టించండి</string>
+        <string name="post_title_hint">పోస్ట్ శీర్షిక</string>
+        <string name="post_description_hint">వివరణ (ఉదా: #మౌలికసదుపాయాలు)</string>
+        <string name="post_location_hint">ప్రాంతం</string>
+        <string name="select_image">చిత్రాన్ని ఎంచుకోండి</string>
+
+        <string name="post_image_description">పోస్ట్ చిత్రం ప్రివ్యూకు</string>
+        <string name="post_hashtags_hint">హ్యాష్‌ట్యాగ్‌లు (ఉదా: #మౌలికసదుపాయాలు)</string>
+        <string name="post_department_hint">శాఖ</string>
+
+    <string name="submit_feedback">ఫీడ్‌బ్యాక్ సమర్పించండి</string>
+    <string name="feedback_hint">మీ ఫీడ్‌బ్యాక్‌ను నమోదు చేయండి</string>
+
+    <string name="error_feedback_too_short">ఫీడ్‌బ్యాక్ కనీసం 10 అక్షరాల వరకు ఉండాలి</string>
+    <string name="sign_up_to_comment">వ్యాఖ్య ఇవ్వడానికి సైన్ అప్ చేయండి</string>
+    <string name="no_comments">ఇంకా వ్యాఖ్యలు లేవు</string>
+    <string name="search_disabled">అజ్ఞాత వినియోగదారులకు శోధన నిలిపివేయబడింది</string>
+
+
+    <string name="post_hero_image">పోస్ట్ హీరో చిత్రం</string>
+
+    <string name="upvote_post">అప్వోట్ చేయండి</string>
+    <string name="downvote_post">డౌన్‌వోట్ చేయండి</string>
+    <string name="post_metadata">వివరాలు</string>
+    <string name="post_location">స్థానం</string>
+    <string name="post_department">శాఖ</string>
+    <string name="post_status">స్థితి</string>
+
+    <string name="pinned_comment">పిన్ చేసిన</string>
+    <string name="view_all_comments">అన్ని వ్యాఖ్యలు చూడండి</string>
+    <string name="location_prefix">ప్రదేశం: %s</string>
+    <string name="department_prefix">శాఖ: %s</string>
+    <string name="status_prefix">స్థితి: %s</string>
+
+</resources>
