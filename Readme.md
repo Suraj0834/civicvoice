@@ -61,7 +61,7 @@ This project has been developed with the contributions of the following team mem
 
 ## 👤 Team Member: Runjhun Gupta
 
-- **ID:** Runjhun143  
+- **ID:** [GitHub Profile](https://github.com/Runjhun143)
 - **Role:** Collaborator  
 - **Contribution:** Actively participated in the development of the project, offering valuable input, suggestions, and assistance in implementation phases. Her collaboration and teamwork played a vital role in project completion.
 
